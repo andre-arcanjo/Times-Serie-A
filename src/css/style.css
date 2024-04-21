@@ -1,0 +1,116 @@
+html{
+    background-color: hsl(0, 0%, 95%);
+    margin-bottom: 15px;
+}
+
+.container-principal{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container-principal img{
+    width: 200px;
+    height: 250px;
+}
+
+.coluna{
+    width: 300px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 1;
+    justify-content: space-around;
+    align-items: center;
+    margin: 5px;
+}
+
+.athletico-pr{
+    background-color: rgb(155, 76, 76);
+}
+
+.atletico-mg{
+    background-color: #3a3737;
+}
+
+.atletico-go{
+    background-color: rgb(201, 59, 59);
+}
+
+.bahia{
+    background-color: rgb(88, 181, 243);
+}
+
+.botafogo{
+    background-color: #3a3737;
+}
+
+.bragantino{
+    background-color: #ffffff;
+}
+
+.corinthians{
+    background-color: #3a3737;
+}
+
+.criciuma{
+    background-color: rgb(241, 231, 83);
+}
+
+.cruzeiro{
+    background-color: rgb(33, 33, 212);
+}
+
+.cuiaba{
+    background-color: rgb(63, 153, 63);
+}
+
+.flamengo{
+    background-color: rgb(233, 40, 40);
+}
+
+.fluminense{
+    background-color: rgb(97, 16, 16);
+}
+
+.fortaleza{
+    background-color: rgb(0, 162, 255);
+}
+
+.gremio{
+    background-color: rgb(64, 116, 226);
+}
+
+.internacional{
+    background-color: rgb(197, 43, 43);
+}
+
+.juventude{
+    background-color: rgb(73, 156, 73);
+}
+
+.palmeiras{
+    background-color: rgb(3, 75, 3);
+}
+
+.sao-paulo{
+    background-color: #ffffff;
+}
+
+.vasco{
+    background-color: #3a3737;
+}
+
+.vitoria{
+    background-color: rgb(233, 40, 40);
+}
+
+h1{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+span{
+    color: green;
+}
