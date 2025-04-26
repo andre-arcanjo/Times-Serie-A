@@ -25,16 +25,22 @@ html{
     margin: 5px;
 }
 
-.athletico-pr{
-    background-color: rgb(155, 76, 76);
+main .coluna h2{
+    text-align: center;
+}
+
+.header h1{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+span{
+    color: green;
 }
 
 .atletico-mg{
     background-color: #3a3737;
-}
-
-.atletico-go{
-    background-color: rgb(201, 59, 59);
 }
 
 .bahia{
@@ -49,20 +55,16 @@ html{
     background-color: #ffffff;
 }
 
+.ceara{
+    background-color: #3a3737;
+}
+
 .corinthians{
     background-color: #3a3737;
 }
 
-.criciuma{
-    background-color: rgb(241, 231, 83);
-}
-
 .cruzeiro{
     background-color: rgb(33, 33, 212);
-}
-
-.cuiaba{
-    background-color: rgb(63, 153, 63);
 }
 
 .flamengo{
@@ -89,12 +91,24 @@ html{
     background-color: rgb(73, 156, 73);
 }
 
+.mirassol{
+    background-color: rgb(241, 231, 83);
+}
+
 .palmeiras{
     background-color: rgb(3, 75, 3);
 }
 
 .sao-paulo{
     background-color: #ffffff;
+}
+
+.santos{
+    background-color: #fff;
+}
+
+.sport{
+    background-color: rgb(224, 51, 51);
 }
 
 .vasco{
@@ -105,16 +119,3 @@ html{
     background-color: rgb(233, 40, 40);
 }
 
-.header h1{
-    text-align: center;
-    margin: 10px;
-    padding: 10px;
-}
-
-span{
-    color: green;
-}
-
-.main .coluna h2{
-    text-align: center;
-}
