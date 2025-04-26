@@ -25,7 +25,7 @@ html{
     margin: 5px;
 }
 
-main .coluna h2{
+main .coluna h2, h3{
     text-align: center;
 }
 
