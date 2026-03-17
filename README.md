@@ -1,6 +1,6 @@
 # Informações do Projeto
 
-Página responsiva simples com os clubes do Campeonato Brasileiro serie A 2025 e seus respectivos jogadores principais(na minha opinião). Esta foi minha primeira página desenvolvida após aprender todos os módulos de HTML e CSS.
+Página responsiva simples com os clubes do Campeonato Brasileiro serie A 2026 e seus respectivos jogadores principais(na minha opinião). Esta foi minha primeira página desenvolvida após aprender todos os módulos de HTML e CSS.
 
 ## Tecnologias Utilizadas
 
